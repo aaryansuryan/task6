@@ -5,8 +5,8 @@ const Portfolio = () => {
   return (
     <div className="portfolio">
       <header>
-        <h1>Shreyash Joshi</h1>
-        <p>+91 7838549552 | shreyashjoshi3002@gmail.com</p>
+        <h1>Aaryan Suryan</h1>
+        <p>+91 9667762829 | aaryansuryan@gmail.com</p>
       </header>
 
       <section className="education">
@@ -18,14 +18,14 @@ const Portfolio = () => {
               <li>Btech in Computer Science</li>
               <li>Chennai, Tamil Nadu</li>
               <li>College of Engineering</li>
-              <li>CGPA: 8.53</li>
+              <li>CGPA: 9.24</li>
             </ul>
           </li>
           <br/>
           <li>
-            SETH ANANDRAM JAIPURIA SCHOOL (CLASS XII)
+            BAL BHARATI PUBLIC SCHOOL, DWARKA
             <ul>
-              <li>Percentage: 93.6%</li>
+              <li>Percentage: 96.4%</li>
               <li>Uttar Pradesh, India</li>
             </ul>
           </li>
@@ -99,8 +99,8 @@ const Portfolio = () => {
       <section className="links">
         <h2>LINKS</h2>
         <ul>
-          <li><a href="https://www.linkedin.com/in/shreyash-joshi-1166b0220/">LinkedIn</a></li>
-          <li><a href="https://github.com/Godfathxx">Github</a></li>
+          <li><a href="https://www.linkedin.com/in/aaryan-suryan-0b1411219/">LinkedIn</a></li>
+          <li><a href="https://github.com/aaryansuryan">Github</a></li>
         </ul>
       </section>
     
